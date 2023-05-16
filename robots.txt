@@ -10,4 +10,4 @@ Disallow: /search/
 Disallow: /terms/
 Disallow: /privacy/
 Disallow: /404/
-Sitemap: https://www.tutoringgalaxy.com/sitemap.xml
+Sitemap: https://tutoringgalaxy.github.io/sitemap.xml
